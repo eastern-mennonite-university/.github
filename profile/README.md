@@ -1,4 +1,5 @@
-## Hi there 👋
+## This is the GitHub Organization for Eastern Mennonite University's engineering department
+Here you will find student projects that are linked to the university.
 
 <!--
 
